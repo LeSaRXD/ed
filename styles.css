@@ -1,0 +1,18 @@
+body {
+	width: 100vw;
+	height: 100vh;
+	background-color: #252221;
+	margin: 0;
+	overflow: hidden;
+	padding: 1rem;
+	box-sizing: border-box;
+}
+
+* {
+	color: #eff;
+	font-family: sans-serif;
+}
+
+a {
+	color: #ccf;
+}
